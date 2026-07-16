@@ -15,7 +15,7 @@ UNC 85%
 
 ## Deployment
 
-Add additional notes to deploy this on a live system
+Test on your own!
 
 ## Built With
 
